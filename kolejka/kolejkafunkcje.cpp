@@ -1,4 +1,4 @@
-#include "Nag³ówek.h"
+#include "kolejka.h"
 #include <stdio.h>
 #include <stdlib.h>
 

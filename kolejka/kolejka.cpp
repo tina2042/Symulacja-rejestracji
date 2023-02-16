@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "Nagłówek.h"
+#include "kolejka.h"
 
 int main()
 {
